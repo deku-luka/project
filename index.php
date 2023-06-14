@@ -1,3 +1,3 @@
 <?php
-  echo  " hello wold " ;
+var_dump($_POST)
 ?>
